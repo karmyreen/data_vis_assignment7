@@ -36,6 +36,8 @@ count_wins.columns = ['Country', 'Wins']
 
 app = dash.Dash(__name__)
 
+server = app.server
+
 app.title = "Fifa World Cup Winner Dashboard"
 
 app.layout = html.Div([
