@@ -1,3 +1,4 @@
 Pandas
 Dash
 Numpy 
+gunicorn
